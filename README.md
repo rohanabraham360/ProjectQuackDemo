@@ -2,7 +2,8 @@
 
 git clone https://github.com/thwilk/ProjectQuackDemo.git
 
-<Open this folder and add in your fun facts>
+
+ then Open this folder and add in your fun facts
 
 
 git add . 
